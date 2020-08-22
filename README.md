@@ -7,4 +7,6 @@ To avoid this:
 - In *Solution Explorer*, expand *References* and select all items inside 
 - Hit the *F4* key to open properties and set the ***Copy Local*** attribute to ***False*** 
 
-New - A project template with web deploy support -> https://marketplace.visualstudio.com/items?itemName=SilverfoxSystems0.FunctionAppVbFwHttpTrigger1
+New - A project template with web deploy support (VS Community edition only) -> [Download from marketplace](https://marketplace.visualstudio.com/items?itemName=SilverfoxSystems0.FunctionAppVbFwHttpTrigger1).
+
+ VS Pro and Enterprise editions can be ordered [here](http://silverfox.systems/OrderVSIX.aspx).
