@@ -9,4 +9,4 @@ To avoid this:
 
 New - A project template with web deploy support (VS Community edition only) -> [Download from marketplace](https://marketplace.visualstudio.com/items?itemName=SilverfoxSystems0.FunctionAppVbFwHttpTrigger1).
 
- VS Pro and Enterprise editions can be ordered [here](http://silverfox.systems/OrderVSIX.aspx).
+Packages for Pro and Enterprise editions can be ordered [here](http://silverfox.systems/OrderVSIX.aspx).
